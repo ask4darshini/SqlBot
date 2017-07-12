@@ -1,0 +1,31 @@
+{
+  "name": "npmdep",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-karma": "^2.0.0",
+    "karma-html2js-preprocessor": "^1.1.0"
+  },
+  "dependencies": {
+    "botbuilder": "^3.8.4",
+    "botbuilder-location": "^2.0.0",
+    "dotenv-extended": "^2.0.1",
+    "restify": "^4.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ask4darshini/MSBot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ask4darshini/MSBot/issues"
+  },
+  "homepage": "https://github.com/ask4darshini/MSBot#readme",
+  "description": ""
+}
